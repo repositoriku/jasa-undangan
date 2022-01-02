@@ -6,19 +6,17 @@
 
 /* Utility */
 .tombol {
-    text-transform: uppercase;
-    border-radius: 40px;
+  text-transform: uppercase;
+  border-radius: 40px;
 }
 
 /* Jumbotron */
 .jumbotron {
-    background-color: white;
-    background-size: cover;
-    height: 640px;
-    margin-top: 75px;
-    font-size: medium;
-}
-
+  background-color: white;
+  background-size: cover;
+  height: 640px;
+  margin-top: 75px;
+  font-size: medium;
 }
 
 /* DESKTOP VERSION */
