@@ -35,3 +35,8 @@
     margin-bottom: -8px;
   }
 }
+
+.btn-primary-spacing {
+  margin-right: 5px;
+  margin-bottom: 5px !important;
+}
